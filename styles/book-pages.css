@@ -1,0 +1,22 @@
+article {
+  padding: 10px;
+  font-size: 0.9em;
+  background-color: #F5F5F5;
+  margin: 10px 0px;
+  line-height: 150%;
+}
+
+article h1 {
+  display:inline;
+  font-size: 1.2em;
+  font-family: 'Merriweather', serif;
+}
+
+article h2 {
+  font-size: 1em;
+  font-style: italic;
+}
+
+table {
+  margin: 10px 0px;
+}
